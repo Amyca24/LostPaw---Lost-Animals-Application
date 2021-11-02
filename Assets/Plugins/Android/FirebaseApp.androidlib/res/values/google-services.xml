@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://lostpawdb-default-rtdb.firebaseio.com/</string>
+  <string name="gcm_defaultSenderId" translatable="false">378545706389</string>
+  <string name="google_storage_bucket" translatable="false">lostpawdb.appspot.com</string>
+  <string name="project_id" translatable="false">lostpawdb</string>
+  <string name="google_api_key" translatable="false">AIzaSyAtkih9n7n2WLDBcN9IPyukarVJ5TCL40E</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAtkih9n7n2WLDBcN9IPyukarVJ5TCL40E</string>
+  <string name="google_app_id" translatable="false">1:378545706389:android:eacac1061d8d8ae27cd29c</string>
+  <string name="default_web_client_id" translatable="false">378545706389-39ts4cl8qkgpmo8bv748gbic9i1vj5ev.apps.googleusercontent.com</string>
+</resources>

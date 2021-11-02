@@ -1,0 +1,40 @@
+{
+    "project_info": {
+        "project_number": "378545706389",
+        "project_id": "lostpawdb",
+        "firebase_url": "https://lostpawdb-default-rtdb.firebaseio.com/",
+        "storage_bucket": "lostpawdb.appspot.com"
+    },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378545706389:android:eacac1061d8d8ae27cd29c",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.LostPaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378545706389-39ts4cl8qkgpmo8bv748gbic9i1vj5ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtkih9n7n2WLDBcN9IPyukarVJ5TCL40E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378545706389-39ts4cl8qkgpmo8bv748gbic9i1vj5ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
